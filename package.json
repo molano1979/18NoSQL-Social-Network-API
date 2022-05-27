@@ -1,0 +1,27 @@
+{
+  "name": "18nosql-social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molano1979/18NoSQL-Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molano1979/18NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/molano1979/18NoSQL-Social-Network-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "mongod": "^2.0.0",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.4"
+  }
+}
